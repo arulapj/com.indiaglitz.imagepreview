@@ -1,5 +1,4 @@
 #import <Cordova/CDV.h>
-#import "GallaryVC.h"
 
 @interface ImagePreview : CDVPlugin
 
